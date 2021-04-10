@@ -1,10 +1,10 @@
-# UCLA_EE_219_Project1_clustering
+# UCLA_EE_219_Project1_classification
 
 
 ## Project Goals
 This project goal inludes:
 1. Concstruct tf-idf representations of textual data.
-2. Performing clustering analysis using K-means, DBCAN and HDBSAN.
+2. Performing classification analysis using K-means, DBCAN and HDBSAN.
 3. Compare two dimension reduction methods: PCA and NMF
 4. Get familiar with pre-trained word embeddings.
 
